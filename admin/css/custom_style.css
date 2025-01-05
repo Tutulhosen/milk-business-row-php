@@ -1,0 +1,136 @@
+.align-items-center {
+  align-items: center !important;
+}
+.justify-content-between {
+  justify-content: space-between !important;
+}
+.d-flex {
+  display: flex !important;
+}
+  .card card-fluid{
+	  
+	  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #ffffff;
+  background-clip: border-box;
+  border: 0px solid rgba(0, 0, 0, 0.125);
+  border-radius: 10px;
+  }
+  /*
+  For Calender-design-start
+  */
+/*  body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+    margin: 0;
+}
+
+
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    margin: 0;
+}*/
+
+.calendar {
+    width: 100%;
+    max-width: 600px;
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+    overflow: hidden;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background: #4CAF50;
+    color: white;
+    font-size: 20px;
+}
+
+.header button {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.header button:hover {
+    color: #ddd;
+}
+
+.weekdays, .days {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.weekdays div, .days div {
+    width: 14.28%;
+    text-align: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #f1f1f1;
+}
+
+.weekdays {
+    background: #4CAF50;
+    color: white;
+}
+
+.days div {
+    cursor: pointer;
+    transition: background 0.3s, color 0.3s;
+}
+
+.days div:hover {
+    background: #f0f0f0;
+}
+
+.today {
+    background: #ffeb3b;
+    border-radius: 50%;
+    color: black;
+    font-weight: bold;
+}
+
+  
+  
+    /*
+  For Calender-design-End
+  */
+  
+  .card{
+	  border-radius: 1.25rem !important;
+	  
+  }
+  
+  .pagetitle h1{
+  margin-bottom: 0 !important;
+  margin-right: 8px !important;
+  padding-right: 8px!important;
+  font-weight: 500!important;
+	 font-size: 1.25rem; 
+	  
+  }
+.breadcrumb{
+	background-color: none!important;
+	
+}
+.dataTable-top{
+padding: 25px 25px !important;
+}

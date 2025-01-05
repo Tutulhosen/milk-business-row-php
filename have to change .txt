@@ -1,0 +1,6 @@
+(1)Project Image folder. admin>img>Page Image>
+(2)signin page. full change 
+(3)custom css in dashboard
+(4)index.php
+(5) Header,php in dashboard
+

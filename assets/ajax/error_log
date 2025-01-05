@@ -1,0 +1,4 @@
+[04-Feb-2024 07:12:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bdhandic/public_html/assets/ajax/login.php on line 8
+[04-Feb-2024 15:59:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bdhandic/public_html/assets/ajax/login.php on line 8
+[04-Feb-2024 16:00:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bdhandic/public_html/assets/ajax/login.php on line 8
+[16-Apr-2024 08:21:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bdhandic/public_html/assets/ajax/login.php on line 8
